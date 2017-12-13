@@ -33,7 +33,10 @@ public class WhiteList {
 
             for (Map.Entry<Integer, ArrayList<TradeAndLogin>> map : hashMapHashMap.entrySet()) {
                 i++;
+<<<<<<< HEAD
                 
+=======
+>>>>>>> d405891e2a1c8b7f1bda13012ca2b06ce2e520de
                 if (i % 300 == 0) {
                     System.out.println(i);
                 }

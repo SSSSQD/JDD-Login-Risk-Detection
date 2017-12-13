@@ -24,7 +24,10 @@ public class MLInstance14A {
             for (Map.Entry<Integer, ArrayList<Data>> map : hashMap.entrySet()) {
                 ArrayList<TradeAndLogin> tradeAndLogins = new ArrayList<>();
                 k++;
+<<<<<<< HEAD
                 
+=======
+>>>>>>> d405891e2a1c8b7f1bda13012ca2b06ce2e520de
                 if (k % 300 == 0) {
                     System.out.println(k);
                 }

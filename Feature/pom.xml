@@ -4,12 +4,16 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 <<<<<<< HEAD
+<<<<<<< HEAD
 
     <artifactId>Feature</artifactId>
 
 =======
     <artifactId>Feature</artifactId>
 >>>>>>> add all
+=======
+    <artifactId>Feature</artifactId>
+>>>>>>> d405891e2a1c8b7f1bda13012ca2b06ce2e520de
     <properties>
         <scala.version>2.11.1</scala.version>
         <maven.compiler.source>1.8</maven.compiler.source>
