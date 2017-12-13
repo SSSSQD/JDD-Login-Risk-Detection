@@ -61,6 +61,7 @@ public class Function14A {
 
             for (Map.Entry<Integer, ArrayList<TradeAndLogin>> map : hashMapHashMap.entrySet()) {
                 i++;
+                
                 if (i % 300 == 0) {
                     System.out.println(i);
                 }

@@ -17,7 +17,6 @@ public class BuildDeviceMap1A {
             HashMap<Integer, ArrayList<TradeAndLogin>> hashMapHashMap = (HashMap<Integer, ArrayList<TradeAndLogin>>) objectInputStream2.readObject();
             objectInputStream2.close();
             fileInputStream2.close();
-
             // <device, <user_id, data>>
             HashMap<Integer, HashMap<Integer, ArrayList<Data>>> hashMap = new HashMap<>();
             for (Map.Entry<Integer, ArrayList<TradeAndLogin>> map : hashMapHashMap.entrySet()) {
