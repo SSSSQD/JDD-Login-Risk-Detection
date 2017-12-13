@@ -46,10 +46,6 @@ public class BuildDataMap13 {
         String strLine;
         while ((strLine = bufferedReader.readLine()) != null) {
             i++;
-<<<<<<< HEAD
-            
-=======
->>>>>>> d405891e2a1c8b7f1bda13012ca2b06ce2e520de
             if (i == 1) {
                 continue;
             } else {

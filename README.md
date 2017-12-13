@@ -9,11 +9,7 @@
 ### 2. Feature
 - [x] 导入Feature内的Intellij工程
 - [x] 运行`com.jd.login.v14.Feature14A.java`, `com.jd.login.v14.Feature14C.java`, 生成训练测试特征数据
-<<<<<<< HEAD
-- [ ] 注意运行其他package内`.java`, 生成前置`map`文件
-=======
 - [ ] 注意运行其他package内`.java`, 生成前置`map文件`
->>>>>>> d405891e2a1c8b7f1bda13012ca2b06ce2e520de
 - [ ] 运行`com.jd.login.WhiteList.java`, 打印结果`b.csv`
 ### 3. Jupyter Notebook
 - [x] 运行`part1.ipynb`, 生成子模型结果集`a.csv`

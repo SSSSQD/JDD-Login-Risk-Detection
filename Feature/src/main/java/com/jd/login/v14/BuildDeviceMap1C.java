@@ -17,10 +17,7 @@ public class BuildDeviceMap1C {
             HashMap<Integer, ArrayList<TradeAndLogin>> hashMapHashMap = (HashMap<Integer, ArrayList<TradeAndLogin>>) objectInputStream2.readObject();
             objectInputStream2.close();
             fileInputStream2.close();
-<<<<<<< HEAD
-=======
 
->>>>>>> d405891e2a1c8b7f1bda13012ca2b06ce2e520de
             // <device, <user_id, data>>
             HashMap<Integer, HashMap<Integer, ArrayList<Data>>> hashMap = new HashMap<>();
             for (Map.Entry<Integer, ArrayList<TradeAndLogin>> map : hashMapHashMap.entrySet()) {

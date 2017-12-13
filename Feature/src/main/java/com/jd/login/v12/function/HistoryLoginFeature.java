@@ -21,10 +21,6 @@ public class HistoryLoginFeature {
         } else {
             return -1;
         }
-<<<<<<< HEAD
-        
-=======
->>>>>>> d405891e2a1c8b7f1bda13012ca2b06ce2e520de
     }
 
     public static int getHistoryDeviceConnectCityTimeNum(ArrayList<TradeAndLogin> tradeAndLoginArrayList, ArrayList<Data> allLoginArrayList, int minutes) {

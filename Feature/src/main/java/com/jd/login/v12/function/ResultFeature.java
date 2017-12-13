@@ -31,10 +31,6 @@ public class ResultFeature {
                 }
             }
         }
-<<<<<<< HEAD
-        
-=======
->>>>>>> d405891e2a1c8b7f1bda13012ca2b06ce2e520de
         return c;
     }
 }

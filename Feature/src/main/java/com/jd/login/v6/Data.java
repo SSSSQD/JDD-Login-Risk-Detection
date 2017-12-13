@@ -92,10 +92,6 @@ public class Data implements Serializable {
 
     @Override
     public String toString() {
-<<<<<<< HEAD
-        
-=======
->>>>>>> d405891e2a1c8b7f1bda13012ca2b06ce2e520de
         if (getData_type().equals("login")) {
             return "time: " + getTime() + " row_name: " + getRow_name() + " timelong: " + getTimelong()
                     + " device: " + getDevice() + " log_from: " + getLog_from() + " ip: " + getIp()

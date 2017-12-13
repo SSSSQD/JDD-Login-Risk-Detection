@@ -3,10 +3,6 @@ package com.jd.login.v14.write;
 public class HeaderC {
     public static String getHeader() {
         StringBuffer stringBuffer1 = new StringBuffer();
-<<<<<<< HEAD
-        
-=======
->>>>>>> d405891e2a1c8b7f1bda13012ca2b06ce2e520de
         stringBuffer1.append("row_name,id,time,pesudo_label1,pesudo_label2,actual_label,");
         stringBuffer1.append("本次登录与本段交易时间间隔,");
         stringBuffer1.append("本段交易时间0-3点,");

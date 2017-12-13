@@ -42,10 +42,6 @@ public class TradeFeature {
         } else {
             return -1;
         }
-<<<<<<< HEAD
-        
-=======
->>>>>>> d405891e2a1c8b7f1bda13012ca2b06ce2e520de
     }
 
     public static int getRangeIntervalTradeLoginTimeDiffMin(ArrayList<TradeAndLogin> tradeAndLoginArrayList) {
