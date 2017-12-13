@@ -36,6 +36,7 @@ public class CityIPFeature {
                 }
             }
         }
+        
         return hashSet.size();
     }
 

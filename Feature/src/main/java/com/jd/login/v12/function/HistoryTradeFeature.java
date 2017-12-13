@@ -21,5 +21,6 @@ public class HistoryTradeFeature {
         } else {
             return -1;
         }
+        
     }
 }

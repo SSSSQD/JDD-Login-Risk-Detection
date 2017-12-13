@@ -29,4 +29,5 @@ public class TradeAndLogin implements Serializable {
     public ArrayList<Data> getKey() {
         return thisIntervalLogin;
     }
+    
 }

@@ -22,7 +22,6 @@ public class GlobalUtil {
                 }
             }
         }
-//        System.out.println(thisLogin.toString());
         int var1 = hashMap.get(thisLogin.getDevice());
         double var2 = Math.log(Math.exp(1)-1 + hashMap.size());
         return (int) (100/var2 - var1);

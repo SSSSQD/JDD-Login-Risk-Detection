@@ -8,9 +8,6 @@ import java.util.LinkedHashMap;
 
 import static com.jd.login.Utils.timeDiff;
 
-/*
- xxx / yyy
- */
 public class BaseUtil {
     public static int getPercent(int yyy, int xxx) {
         if (yyy == 0) {

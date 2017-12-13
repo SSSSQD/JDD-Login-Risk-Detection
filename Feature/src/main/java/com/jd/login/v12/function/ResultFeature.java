@@ -31,6 +31,7 @@ public class ResultFeature {
                 }
             }
         }
+        
         return c;
     }
 }

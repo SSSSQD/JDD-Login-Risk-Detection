@@ -21,6 +21,7 @@ public class DeviceFeature {
                 }
             }
         }
+        
         return 1;
     }
 

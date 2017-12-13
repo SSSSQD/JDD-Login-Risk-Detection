@@ -46,6 +46,7 @@ public class BuildDataMap13 {
         String strLine;
         while ((strLine = bufferedReader.readLine()) != null) {
             i++;
+            
             if (i == 1) {
                 continue;
             } else {

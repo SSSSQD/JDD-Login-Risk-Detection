@@ -16,7 +16,6 @@ public class BuildDeviceMap2 {
             HashMap<Integer, ArrayList<Data>> hashMap2 = (HashMap<Integer, ArrayList<Data>>) objectInputStream.readObject();
             objectInputStream.close();
             fileInputStream.close();
-
             // <device, <user_id, data>>
             HashMap<Integer, HashMap<Integer, ArrayList<Data>>> hashMap = new HashMap<>();
             for (Map.Entry<Integer, ArrayList<Data>> map : hashMap2.entrySet()) {
